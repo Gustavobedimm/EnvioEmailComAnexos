@@ -1,0 +1,17 @@
+<xConfig unidade="S">
+<empresa>
+<emp1 nome="Construcal - L01" pasta="CCAL_F01" contador="gustavo_bmazutti@hotmail.com" dirCompras="S:/HDS_DOCS/CCAL_F01/E-XML/" dirNfe="S:/HDS_NFE/CCAL_F01/NFE/" dirNfce="S:/HDS_DOCS/CCAL_F01/NFC-E/Enviado/Autorizados/" dirSin="S:/SINTEGRA/CCAL_F01/FIL01-PR/" dirSpedC="S:/SPED/COFINS/CCAL_F01/FIL-01/" dirSpedF="S:/SPED/FISCAL/CCAL_F01/" fl="01" unidade="S"></emp1>
+<emp2 nome="Construcal - L02" pasta="CCAL_F02" contador="" dirCompras="" dirNfe="S:/HDS_NFE/CCAL_F02/NFE/" dirNfce="S:/HDS_DOCS/CCAL_F02/NFC-E/Enviado/Autorizados/" dirSin="S:/SINTEGRA/CCAL_F01/FIL01-PR/" dirSpedC="S:/SPED/COFINS/CCAL_F01/FIL-01/" dirSpedF="S:/SPED/FISCAL/CCAL_F01/" fl="02" unidade="F"></emp2>
+<emp3 nome="Construcal - L03" pasta="CCAL_F03" contador="" dirCompras="" dirNfe="S:/HDS_NFE/CCAL_F03/NFE/" dirNfce="S:/HDS_DOCS/CCAL_F03/NFC-E/Enviado/Autorizados/" dirSin="S:/SINTEGRA/CCAL_F01/FIL01-PR/" dirSpedC="S:/SPED/COFINS/CCAL_F01/FIL-01/" dirSpedF="S:/SPED/FISCAL/CCAL_F01/" fl="03" unidade="F"></emp3>
+<emp4 nome="Construcal - L04" pasta="CCAL_F04" contador="" dirCompras="" dirNfe="S:/HDS_NFE/CCAL_F04/NFE/" dirNfce="S:/HDS_DOCS/CCAL_F04/NFC-E/Enviado/Autorizados/" dirSin="S:/SINTEGRA/CCAL_F01/FIL01-PR/" dirSpedC="S:/SPED/COFINS/CCAL_F01/FIL-01/" dirSpedF="S:/SPED/FISCAL/CCAL_F01/" fl="04" unidade="F"></emp4>
+<emp5 nome="ASV Mat Construc" pasta="ASV_0001" contador="" dirCompras="" dirNfe="S:/HDS_NFE/ASV_0001/NFE/" dirNfce="S:/HDS_DOCS/ASV_0001/NFC-E/Enviado/Autorizados/" dirSin="S:/SINTEGRA/ASV_0001/FIL01-PR/" dirSpedC="S:/SPED/COFINS/ASV_0001/FIL-01/" dirSpedF="S:/SPED/FISCAL/ASV_0001/" fl="01" unidade="F"></emp5>
+<emp6 nome="" pasta="" contador="" dirCompras="" dirNfe="" dirNfce="" dirSin="" dirSpedC="" dirSpedF="" fl="" unidade="F"></emp6>
+<emp7 nome="" pasta="" contador="" dirCompras="" dirNfe="" dirNfce="" dirSin="" dirSpedC="" dirSpedF="" fl="" unidade="F"></emp7>
+<emp8 nome="" pasta="" contador="" dirCompras="" dirNfe="" dirNfce="" dirSin="" dirSpedC="" dirSpedF="" fl="" unidade="F"></emp8>
+<emp9 nome="" pasta="" contador="" dirCompras="" dirNfe="" dirNfce="" dirSin="" dirSpedC="" dirSpedF="" fl="" unidade="F"></emp9>
+</empresa>
+<email>
+<confEmailR email="" senha="" smtp="smtp.gmail.com" porta="465" nomeR=""></confEmailR>
+<confEmailD email="" assunto="" mensagem=""></confEmailD>
+</email>
+</xConfig>
